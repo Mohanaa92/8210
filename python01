@@ -1,2 +1,5 @@
-st = 'This is a String'
-print(st)
+
+#Edit String, use .format and concatenate String
+
+st = 'Hello'
+print("{} World".format(st))
