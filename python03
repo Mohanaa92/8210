@@ -1,0 +1,2 @@
+x = input('Enter a code: ')
+print('Printing x value as Integer: {}'.format(x))
