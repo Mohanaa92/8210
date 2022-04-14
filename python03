@@ -1,2 +1,2 @@
-x = input('Enter a code: ')
-print('Printing x value as Integer: {}'.format(x))
+Code = input('Enter a code: ')
+print('Printing Code value as Integer: {}'.format(Code))
